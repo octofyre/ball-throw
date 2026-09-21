@@ -42,7 +42,7 @@ A simple 3D basketball game made in Unity using C#.
 Score 10 goals to win the game.
 
 
-Author
+##Author
 
 Abhijeet Singh
 
